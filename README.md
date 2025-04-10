@@ -6,24 +6,10 @@
 
 <br/>
 
-## Tech Stacks Back-end
+## Tech Stacks 
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,fastapi,flask,c,java" />
-  </a>
-<div/>
-
-## Tech Stacks Front-end
-<div style="display: inline">
-  <a href="https://skillicons.dev">
-    <img widht="45" height="45" src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-  </a>
-<div/>
-
-## Tech Stacks Machine Learning e IA
-<div style="display: inline">
-  <a href="https://skillicons.dev">
-    <img widht="45" height="45" src="https://skillicons.dev/icons?i=scikitlearn" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,fastapi,flask,scikitlearn,c,java,html,css,javascript,react" />
   </a>
 <div/>
 
