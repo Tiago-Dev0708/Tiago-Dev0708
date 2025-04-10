@@ -33,24 +33,20 @@
 <div style="display: inline">
 <img widht="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </div>
-<br/>
 
 ## Ferramentas
-
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="45" height="45" src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman" />
+    <img widht="45" height="45" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,postman,linux" />
   </a>
 <div/>
 
 ## Bancos de Dados
-
 <div style="display: inline">
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-</div>
-<br/>
+  <a href="https://skillicons.dev">
+    <img widht="45" height="45" src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  </a>
+<div/>
   
           
   
