@@ -16,7 +16,7 @@
 ## Tech Stacks Front-end
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="45" height="45" src="https://skillicons.dev/icons?i=html5,css3,javascript,react" />
+    <img widht="45" height="45" src="https://skillicons.dev/icons?i=html,css,javascript,react" />
   </a>
 <div/>
 
