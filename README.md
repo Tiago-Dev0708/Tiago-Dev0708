@@ -18,6 +18,7 @@
 
 </div>
 <br/>
+
 ## Tech Stacks Front-end
 
 <div style="display: inline">
@@ -27,6 +28,7 @@
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
 <br/>
+
 ## Ferramentas
 
 <div style="display: inline">
@@ -38,6 +40,7 @@
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" />
 </div>
 <br/>
+
 ## Bancos de Dados
 
 <div style="display: inline">
