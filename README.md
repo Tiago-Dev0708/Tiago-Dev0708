@@ -4,8 +4,6 @@
 - Apaixonado por Inteligência Artificial e Análise de Dados
 - Sempre buscando agregar mais meus conhecimentos
 
-<br/>
-
 ## Tech Stacks 
 <div style="display: inline">
   <a href="https://skillicons.dev">
