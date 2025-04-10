@@ -31,6 +31,12 @@
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" />
 </div>
 <br/>
+
+<div style="display: inline">
+<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
+<br/>
   
           
   
