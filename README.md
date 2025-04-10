@@ -4,7 +4,9 @@
 - Apaixonado por Inteligência Artificial e Análise de Dados
 - Sempre buscando agregar mais meus conhecimentos
 
-##
+<br/>
+
+## Tech Stacks Back-end
   
 <div style="display: inline">
 <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -16,6 +18,7 @@
 
 </div>
 <br/>
+## Tech Stacks Front-end
 
 <div style="display: inline">
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -24,6 +27,7 @@
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
 <br/>
+## Ferramentas
 
 <div style="display: inline">
 <img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
@@ -34,6 +38,7 @@
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" />
 </div>
 <br/>
+## Bancos de Dados
 
 <div style="display: inline">
 <img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
