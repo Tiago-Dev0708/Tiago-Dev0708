@@ -31,8 +31,10 @@
 ## Tech Stacks Machine Learning e IA
 
 <div style="display: inline">
-<img widht="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-</div>
+  <a href="https://skillicons.dev">
+    <img widht="45" height="45" src="https://skillicons.dev/icons?i=scikitlearn" />
+  </a>
+<div/>
 
 ## Ferramentas
 <div style="display: inline">
@@ -44,7 +46,7 @@
 ## Bancos de Dados
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="45" height="45" src="https://skillicons.dev/icons?i=postgresql,mysql" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=postgresql,mysql" />
   </a>
 <div/>
   
