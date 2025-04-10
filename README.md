@@ -25,7 +25,7 @@
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions.svg" />
+<img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" />
 </div>
   
           
