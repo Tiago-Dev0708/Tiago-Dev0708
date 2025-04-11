@@ -11,19 +11,26 @@
   </a>
 <div/>
 
-## Ferramentas
+## Tools
 <div style="display: inline">
   <a href="https://skillicons.dev">
     <img widht="50" height="50" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,postman,linux" />
   </a>
 <div/>
 
-## Bancos de Dados
+## Databases
 <div style="display: inline">
   <a href="https://skillicons.dev">
     <img widht="50" height="50" src="https://skillicons.dev/icons?i=postgresql,mysql" />
   </a>
 <div/>
+
+## Github Statistics
+<div style="display: inline">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Dev0708)](https://github.com/anuraghazra/github-readme-stats)
+<div/>
+
+
   
           
   
