@@ -14,7 +14,7 @@
 ## Tools
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,postman,linux,tortoise,sqlalchemy" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,postman,linux" />
   </a>
 <div/>
 
@@ -26,7 +26,7 @@
 <div/>
 
 ## Github Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&count_private=true&layout=compact&theme=radical&langs_count=10&auto_refresh=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&count_private=true&layout=compact&theme=radical&langs_count=100&auto_refresh=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
