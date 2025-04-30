@@ -14,7 +14,7 @@
 ## Tools
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,postman,linux" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,postman,linux,tortoise,sqlalchemy" />
   </a>
 <div/>
 
