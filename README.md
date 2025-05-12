@@ -26,7 +26,7 @@
 <div/>
 
 ## Github Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&count_private=true&layout=compact&theme=radical&langs_count=100&auto_refresh=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&count_private=true&layout=compact&theme=radical&langs_count=30&auto_refresh=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
