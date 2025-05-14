@@ -7,7 +7,7 @@
 ## Tech Stacks 
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,fastapi,flask,scikitlearn,c,java,php,html,css,javascript,react,typescript" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,fastapi,flask,scikitlearn,java,spring,javascript,react,typescript,c,php,html,css," />
   </a>
 <div/>
 
