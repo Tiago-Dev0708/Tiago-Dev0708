@@ -1,13 +1,13 @@
 ## Tiago Oliveira 
 
-- Desenvolvedor Fullstack
+- FullStack Developer and AI Developer
 - Apaixonado por Inteligência Artificial e Análise de Dados
 - Sempre buscando agregar mais meus conhecimentos
 
 ## Tech Stacks 
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,fastapi,flask,scikitlearn,java,spring,javascript,react,typescript,c,php,html,css," />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,fastapi,flask,scikitlearn,langchain,java,spring,javascript,react,typescript,c,php,html,css," />
   </a>
 <div/>
 
