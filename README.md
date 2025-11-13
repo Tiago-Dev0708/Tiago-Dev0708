@@ -8,6 +8,8 @@
 <div style="display: inline">
   <a href="https://skillicons.dev">
     <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,fastapi,flask,scikitlearn,tensorflow,pytorch" />
+  </a>
+  <a>
     <img widht="50" height="50" src="https://skillicons.dev/icons?i=c,java,kotlin,spring,javascript,react,typescript,php,html,css" />
   </a>
 <div/>
