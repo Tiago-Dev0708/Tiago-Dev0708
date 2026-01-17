@@ -4,22 +4,22 @@
 - Apaixonado por Inteligência Artificial e Análise de Dados
 - Sempre buscando agregar mais meus conhecimentos
 
-## Tech Stacks 
+## Languages and Frameworks
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,fastapi,flask,scikitlearn,tensorflow,pytorch" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=python,c,java,kotlin,typescript,javascript,php" />
   </a>
 <div/>
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=c,java,kotlin,spring,javascript,react,typescript,php,html,css" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=fastapi,flask,scikitlearn,tensorflow,pytorch,spring,react" />
   </a>
 <div/>
 
-## Tools
+## DevOps
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,postman,linux" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,terraform" />
   </a>
 <div/>
 
@@ -30,6 +30,13 @@
   </a>
 <div/>
 
+## Tools
+<div style="display: inline">
+  <a href="https://skillicons.dev">
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=postman,insomnia,linux" />
+  </a>
+<div/>
+  
 ## Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&count_private=true&layout=compact&theme=radical&langs_count=20&auto_refresh=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
