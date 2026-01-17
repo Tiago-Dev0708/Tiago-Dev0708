@@ -23,6 +23,13 @@
   </a>
 <div/>
 
+## Clouds
+<div style="display: inline">
+  <a href="https://skillicons.dev">
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=gcp,aws,digitalocean" />
+  </a>
+<div/>
+
 ## Databases
 <div style="display: inline">
   <a href="https://skillicons.dev">
@@ -37,11 +44,6 @@
   </a>
 <div/>
   
-## Github Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&count_private=true&layout=compact&theme=radical&langs_count=20&auto_refresh=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Tiago-Dev0708 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Dev0708&count_private=true&show_icons=true&theme=radical)
-
 
   
           
