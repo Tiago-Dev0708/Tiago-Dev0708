@@ -1,8 +1,8 @@
 ## Tiago Oliveira 
 
-- FullStack Developer and AI Developer
-- Apaixonado por Inteligência Artificial e Análise de Dados
-- Sempre buscando agregar mais meus conhecimentos
+- Software Engineer and AI Engineer
+- Passionate about artificial intelligence and data analysis
+- Always looking to add more to my knowledge
 
 ## Languages and Frameworks
 <div style="display: inline">
@@ -33,7 +33,7 @@
 ## Tools
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=postman,insomnia,linux" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=postman,linux" />
   </a>
 <div/>
   
