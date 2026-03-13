@@ -44,12 +44,15 @@
   </a>
 <div/>
 
-<br>
 
 ##GitHub Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Dev0708&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Dev0708&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+<div/>
+  
+
   
 
   
