@@ -44,6 +44,7 @@
   </a>
 <div/>
 
+<br>
 ##GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Dev0708&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
