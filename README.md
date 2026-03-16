@@ -53,7 +53,7 @@
 <div/>
 <div style="display: inline">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&theme=dracula&layout=compact&count_private=true&layout=compact&langs_count=100&auto_refresh=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Dev0708&theme=dracula&count_private=true&layout=compact&langs_count=100&auto_refresh=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <div/>
 
