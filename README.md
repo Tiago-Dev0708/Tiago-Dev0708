@@ -19,7 +19,7 @@
 ## DevOps
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,terraform" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=github,kubernetes,docker,terraform" />
   </a>
 <div/>
 
@@ -33,14 +33,14 @@
 ## Databases
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,cassandra,redis,hdfs" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,cassandra,redis,hadoop" />
   </a>
 <div/>
 
 ## Tools
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=postman,linux" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=postman,linux,git,grafana,prometheus" />
   </a>
 <div/>
 
