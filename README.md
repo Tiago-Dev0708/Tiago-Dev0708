@@ -19,7 +19,7 @@
 ## DevOps
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img widht="50" height="50" src="https://skillicons.dev/icons?i=github,kubernetes,docker,terraform" />
+    <img widht="50" height="50" src="https://skillicons.dev/icons?i=github,githubactions,kubernetes,docker,terraform" />
   </a>
 <div/>
 
