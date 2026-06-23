@@ -1,6 +1,6 @@
 ## Tiago Oliveira 
 
-- Software Engineer and AI Engineer
+- Software & AI Engineer
 - Passionate about artificial intelligence and data analysis
 - Always looking to add more to my knowledge
 
